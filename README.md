@@ -3,9 +3,17 @@
 Redux YouOwn was made by me, as a video platform.Inspired by video platforms such as youtube,dailymotion etc.I made a video platform that would show you videos based on popular genres for example : 
 
 1)horror
+
+
 2)action and entertainment
+
+
 3)Kids
+
+
 4)inspirational
+
+
 5)DIY's
 
 The categories (can be selected one or more than one) would help the user to get content of his/her choice.Moreover, the user also has 
@@ -19,7 +27,7 @@ personal dashboard where all his record his kept safe,such as:
 This dashboard would help user to see his/her personal record.
 
 
-###Backend for Login
+### Backend for Login
 
 firebase was used for authentication with email and password.
 
@@ -42,6 +50,8 @@ You should install Node.js (ver 6.0) recommended.
 You need to add your firebase API key.
 
 `npm install`
+
+
 `'npm run`
 
 
