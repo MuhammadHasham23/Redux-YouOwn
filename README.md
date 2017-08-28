@@ -42,7 +42,7 @@ Now navigate to `localhost:8080`
 
 You should install Node.js (ver 6.0) recommended.
 
-![alt text]http://i.imgur.com/15iz1HR.png
+![alt text](http://i.imgur.com/15iz1HR.png)
 
 
 ### Installing
@@ -64,7 +64,7 @@ The testing of the application is done with Mocha and chai-jquery.
 The tests were performed on every component,action and reducer.Based on there existance and there specific operation, using different 
 assertions using Mocha and chai.
 
-![alt text]http://i.imgur.com/BYlzQRM.png[/img]
+![alt text](http://i.imgur.com/BYlzQRM.png[/img])
 
 
 ## Built With
