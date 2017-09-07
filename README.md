@@ -20,9 +20,13 @@ The categories (can be selected one or more than one) would help the user to get
 personal dashboard where all his record his kept safe,such as:
 
 1)Likes made and on which video.
+
 2)Comments made on videos.
+
 3)Videos saved (a feature to save video).
+
 4)The categories the user has visited.
+
 
 This dashboard would help user to see his/her personal record.
 
