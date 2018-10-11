@@ -1,20 +1,20 @@
 # Redux YouOwn
 
-Redux YouOwn was made by me, as a video platform.Inspired by video platforms such as youtube,dailymotion etc.I made a video platform that would show you videos based on popular genres for example : 
+I have made "Redux YouOwn" - a video platform. Inspired by video platforms ike youtube, dailymotion etc. I have made a video platform that would show users videos based on popular genres for example : 
 
 1)horror
 
 
-2)action and entertainment
+2) Action and entertainment
 
 
-3)Kids
+3) Kids
 
 
-4)inspirational
+4) Inspirational
 
 
-5)DIY's
+5) DIY's
 
 The categories (can be selected one or more than one) would help the user to get content of his/her choice.Moreover, the user also has 
 personal dashboard where all his record his kept safe,such as:
